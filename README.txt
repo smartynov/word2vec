@@ -1,3 +1,6 @@
+This is a clone of https://code.google.com/p/word2vec/ completed 2015-06-27
+
+
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
